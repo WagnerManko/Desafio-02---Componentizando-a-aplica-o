@@ -18,12 +18,6 @@ interface SideBarProps {
 
 export function SideBar(props: SideBarProps) {
   // Complete aqui
-
-  // function handleClickButton(id: number) {
-  //   // setSelectedGenreId(id);
-  //   alert(id);
-  // }
-
   return (
       <nav className="sidebar">
         <span>Watch<p>Me</p></span>
